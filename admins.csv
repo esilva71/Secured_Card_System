@@ -1,0 +1,3 @@
+ID,Password,Name,Email,Phone,CardID,CardClearance
+ADM001,Admin678!,System Admin,admin@company.com,701234567,CARD100,5
+ADM002,Admin123!,HR Admin,hr.admin@company.com,707654321,CARD101,5
